@@ -1,2 +1,0 @@
-# Ghunter
-test prjct
